@@ -15,7 +15,7 @@ Este proyecto corresponde al desarrollo del sitio de e-commerce
 - **JavaScript**
 - **Git/GitHub**
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 - index.html  Página principal con listado de productos.
 - producto.html  Página de descripción del producto.
 - css/  Estilos personalizados.
